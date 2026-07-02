@@ -1,7 +1,7 @@
 /*
 * Copyright (c) 2016-present, Ken Hibino.
 * Licensed under the MIT License (MIT).
-* See https://kenny-hibino.github.io/react-places-autocomplete
+* See https://Benkovichnikita.github.io/autocomplete
 */
 
 import React from 'react';
@@ -57,13 +57,13 @@ class PlacesAutocomplete extends React.Component {
   init = () => {
     if (!window.google) {
       throw new Error(
-        '[react-places-autocomplete]: Google Maps JavaScript API library must be loaded. See: https://github.com/kenny-hibino/react-places-autocomplete#load-google-library'
+        '[react-places-autocomplete]: Google Maps JavaScript API library must be loaded. See: https://github.com/Benkovichnikita/autocomplete#load-google-library'
       );
     }
 
     if (!window.google.maps.places) {
       throw new Error(
-        '[react-places-autocomplete]: Google Maps Places library must be loaded. Please add `libraries=places` to the src URL. See: https://github.com/kenny-hibino/react-places-autocomplete#load-google-library'
+        '[react-places-autocomplete]: Google Maps Places library must be loaded. Please add `libraries=places` to the src URL. See: https://github.com/Benkovichnikita/autocomplete#load-google-library'
       );
     }
 

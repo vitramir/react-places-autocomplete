@@ -1,7 +1,7 @@
 /*
  * Copyright (c) 2016-present, Ken Hibino.
  * Licensed under the MIT License (MIT).
- * See https://kenny-hibino.github.io/react-places-autocomplete
+ * See https://Benkovichnikita.github.io/autocomplete
  */
 
 import React, { useState, useEffect, useRef, useCallback } from 'react';

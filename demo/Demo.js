@@ -14,7 +14,7 @@ const Demo = () => (
       </p>
       <hr />
       <a
-        href="https://github.com/kenny-hibino/react-places-autocomplete"
+        href="https://github.com/Benkovichnikita/autocomplete"
         className="Demo__github-link"
         target="_blank"
         rel="noopener noreferrer"

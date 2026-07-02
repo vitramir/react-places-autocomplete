@@ -1,9 +1,9 @@
 [![MIT-License](https://img.shields.io/npm/l/react-places-autocomplete.svg?style=flat-square)]()
 [![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg?style=flat-square)](https://gitter.im/react-places-autocomplete/Lobby)
-[![Maintainers Wanted](https://img.shields.io/badge/maintainers-wanted-orange)](https://github.com/hibiken/react-places-autocomplete/issues/296#issuecomment-583764730)
+[![Maintainers Wanted](https://img.shields.io/badge/maintainers-wanted-orange)](https://github.com/Benkovichnikita/autocomplete/issues/296#issuecomment-583764730)
 
 ## We are looking for maintainers!
-In order to ensure active development going forward, we are looking for maintainers to join the project. [Please contact the project owner if you are interested.](https://github.com/hibiken/react-places-autocomplete/issues/296#issuecomment-583764730)
+In order to ensure active development going forward, we are looking for maintainers to join the project. [Please contact the project owner if you are interested.](https://github.com/Benkovichnikita/autocomplete/issues/296#issuecomment-583764730)
 
 # React Places Autocomplete
 
@@ -13,7 +13,7 @@ A React component to build a customized UI for Google Maps Places Autocomplete
 
 ### Demo
 
-Live demo: [hibiken.github.io/react-places-autocomplete/](https://hibiken.github.io/react-places-autocomplete/)
+Live demo: [Benkovichnikita.github.io/autocomplete/](https://Benkovichnikita.github.io/autocomplete/)
 
 ### Features
 

@@ -29,7 +29,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/kenny-hibino/react-places-autocomplete.git"
+    "url": "https://github.com/Benkovichnikita/autocomplete.git"
   },
   "keywords": [
     "React.js",
@@ -55,9 +55,9 @@
   "author": "Ken Hibino <ken.hibino7@gmail.com> (http://www.kenhibino.com/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kenny-hibino/react-places-autocomplete/issues"
+    "url": "https://github.com/Benkovichnikita/autocomplete/issues"
   },
-  "homepage": "https://github.com/kenny-hibino/react-places-autocomplete#readme",
+  "homepage": "https://github.com/Benkovichnikita/autocomplete#readme",
   "devDependencies": {
     "babel-cli": "^6.23.0",
     "babel-eslint": "8.2.2",
