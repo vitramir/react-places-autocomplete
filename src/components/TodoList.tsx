@@ -89,7 +89,7 @@ const TodoList: React.FC<TodoListProps> = ({
     const root = listRef.current;
     if (!root) return;
 
-    morphdom(root, renderList(todos), { childrenOnly: true });
+    morphdom.morphChildren(root, renderList(todos));
   }, [todos]);
 
   return (
